@@ -1,0 +1,22 @@
+.textButton {
+    cursor: pointer;
+    color: #9d9d9d;
+  }
+  
+  .textButton:hover {
+    text-decoration: underline;
+    opacity: 0.5;
+  }
+  .star {
+    color: #39D353;
+  }
+  
+  .star:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    opacity: 0.5;
+  }
+    
+.yellow {
+  color: #FFD700;
+}
